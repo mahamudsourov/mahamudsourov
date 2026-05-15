@@ -48,8 +48,12 @@ AI & Machine Learning Enthusiast • Software Developer • Researcher
 
 - **Deep Learning Approaches: Ensemble-Based Robust Identification of Grapevine Leaves**
 
-### Accepted Paper
+### Accepted Papers
 - **Comparative Study of CNN Architectures for Recognizing American Sign Language Alphabet**
+
+- **Automated Rice Leaf Disease Detection Using Deep Feature Extraction and Machine Learning Classification**
+
+- **Deep Learning Approaches: DCNN and Transfer Learning-Based Robust Classification of Java Plum Leaf Diseases**
 
 ### Undergraduate Thesis
 **HybridLeafNet: A Transformer and CNN Fusion Framework with Explainable AI for Medicinal Plant Leaf Classification**
