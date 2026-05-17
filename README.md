@@ -5,7 +5,7 @@ AI & Machine Learning Enthusiast • Software Developer • Researcher
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision;AI-Powered+Automation+%7C+Software+Development;Research+Focused+Computer+Science+Graduate" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision;AI-Powered+Automation+%7C+Software+Development;Computer+Science+and+Engineering+Graduate" />
 </p>
 
 <p align="center">
